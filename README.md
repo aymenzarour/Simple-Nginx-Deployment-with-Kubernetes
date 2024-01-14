@@ -60,6 +60,7 @@ kubectl apply -f myweb.yaml
     ```
 
     -  on my case :
+      
       ```<bash>
       
       $ kubectl get services
